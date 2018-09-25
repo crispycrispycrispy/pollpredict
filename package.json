@@ -1,0 +1,28 @@
+{
+  "name": "pollpredict",
+  "version": "1.0.0",
+  "description": "Sentimental analysis website using tweets to determine future outcomes",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aboveaveragedev/pollpredict.git"
+  },
+  "author": "Gavin Dsilva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aboveaveragedev/pollpredict/issues"
+  },
+  "homepage": "https://github.com/aboveaveragedev/pollpredict#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "request": "^2.88.0",
+    "sentiment": "^5.0.1",
+    "twitter": "^1.7.1"
+  }
+}
