@@ -21,6 +21,7 @@
   "homepage": "https://github.com/aboveaveragedev/pollpredict#readme",
   "dependencies": {
     "express": "^4.16.3",
+    "path": "^0.12.7",
     "request": "^2.88.0",
     "twitter": "^1.7.1",
     "wink-sentiment": "^4.0.2"
