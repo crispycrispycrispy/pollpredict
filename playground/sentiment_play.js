@@ -3,7 +3,7 @@
 
 var Wink = require("wink-sentiment");
 
-var text = "Not so good";
+var text = "انا اتكلم في حالة الطقس هطول أمطار وموجات غبار وايضا الموجات وكل شي موجود اول بأول";
 
 // console.log("1. Using sentiment", sentiment.analyze(text));
 
