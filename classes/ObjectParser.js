@@ -19,7 +19,8 @@ getTweetObject = (tweetsObj) => {
             relevantTweets.push(normalTweet);
         }
     }
-    console.log(tweetIds);
+    return relevantTweets;
+    //console.log(tweetIds);
     //writeToFile(relevantTweets, path.resolve(__driname, "../assets/json/test.txt");
 }
 

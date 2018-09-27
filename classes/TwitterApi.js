@@ -5,7 +5,8 @@ const fs = require("fs");
 const constants = require(path.resolve(__dirname, "../constants/constants"));
 const objparser = require(path.resolve(__dirname, "ObjectParser"));
 
-
+const mongodb = require('monk')(constants.mlab_uri);
+const testing = mongodb.get('testing');
 
 getRequest = (uri, params={}) => {
     let options = {
@@ -29,15 +30,22 @@ getTweets = () => {
     // getRequest(uri, params);
     let bigTweetsObj = JSON.parse(fs.readFileSync(path.resolve(__dirname, "../assets/json/@BarackObama_search.json"), 'utf8'));
     let releventTweets = objparser.getTweetObject(bigTweetsObj);
-    //console.log("Relevent tweets: ", releventTweets);
+    //console.log("Total "+releventTweets.length);
+    insertIntoMLab(releventTweets);
+}
+
+insertIntoMLab = (tweets) => {
+    testing.insert(tweets)
+    .then((docs) => {
+        console.log("done inserting "+docs.length);
+        mongodb.close();
+    })
+    .catch((err) => {
+        console.log("error " + err);
+    });
 }
 
 getTweets();
-
-
-
-
-
 
 
 
