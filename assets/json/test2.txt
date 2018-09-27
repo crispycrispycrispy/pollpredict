@@ -1,0 +1,2409 @@
+[
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "Shalise_",
+        "text": "Their MUSIC INDUSTRY refused to report and document how much money they made off Shalise downloading their music that she tweeted on Twitter. In 2011 he made himself rich off making beats off music playlists that Shalise downloaded. @BarackObama",
+        "tweet_id": "1044986753252126722",
+        "tweet_url": "https://twitter.com/Shalise_/status/1044986753252126722",
+        "sentiment": {
+            "valence_score": 0,
+            "label": "neutral",
+            "meta": [
+                {
+                    "value": "refused",
+                    "tag": "word",
+                    "score": -2
+                },
+                {
+                    "value": "rich",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "leo2gs",
+        "text": "@ecotvpanama @BebyValderrama @panamenistas @rpc_radio @SusanCast @TorrijosLegazpi @realDonaldTrump @leo2gs @BarackObama @EdwinECabreraU @Pontifex_es @jorgeramosnews  Alcaldia 2019 Elections",
+        "tweet_id": "1044986726077353985",
+        "tweet_url": "https://twitter.com/leo2gs/status/1044986726077353985",
+        "sentiment": {
+            "valence_score": 0,
+            "label": "neutral",
+            "meta": []
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "nightOwlbookLvr",
+        "text": "@TejasPsycho @STPFreak @TeedIsMe @CorkySwift2 @real_Ryan_P @XT52017white @CharismaMolotov @marleneroseb @lblack1969 @DontTreadOnUS @steffiesteeler @wade_spiker @PVHenryConLLC @LifeIsHope6 @VortexVixen45 @seashorewoman @DaShrood0ne @ScrewedHumans @rdrhwke @Jayhawker4Trump @ChapulinColoRed @JoeyMarker426 @SCBelle6 @TruthMaga @jimlibertarian @Tia6sc @GmanFan45 @USARocks_1 @thatsqueensnark @ForrestCSmith @SassySculptor @mutts4me_sherri @warrant05_tony @TWGroupsWarrior @TheMessanger_ @MollyV178 @190FiveCFC @TulpaOmega @abajoKadenas @Zippityd00dah @DaZipstahh @Amazzon48 @mammyharvey1 @Pickles0201 @Bexofeasttex @smalltownandrew @LazyMeatball @BarackObama Don’t bother trying to defend Trump’s policies. These people r complete morons. Wait til they go to do taxes in 19 and see $$$ coming back and All 3 of our college-edu.daughters have gained at least 11,000.00$ more per year since Trump took office. 2 have new jobs and one promote",
+        "tweet_id": "1044984591143055360",
+        "tweet_url": "https://twitter.com/nightOwlbookLvr/status/1044984591143055360",
+        "sentiment": {
+            "valence_score": 0.18831089428867734,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "bother",
+                    "tag": "word",
+                    "score": -2
+                },
+                {
+                    "value": "gained",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "promote",
+                    "tag": "word",
+                    "score": 1
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "TheBadDadder",
+        "text": "@BarackObama ✳️ Hey Barry Hussein, which party should we vote for if we don’t want to support folks who hate America❓\n👉🏼 Remind me again how much cash💰💰 you gave Iran 🇮🇷 \n@ValerieJarrett @JohnKerry @realDonaldTrump \nhttps://t.co/yal5maupHU https://t.co/O8uia8F9dq",
+        "tweet_id": "1044909733902274562",
+        "tweet_url": "https://twitter.com/TheBadDadder/status/1044909733902274562",
+        "sentiment": {
+            "valence_score": 0.4303314829119352,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "want",
+                    "tag": "word",
+                    "score": 1
+                },
+                {
+                    "value": "support",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "hate",
+                    "tag": "word",
+                    "score": -3
+                },
+                {
+                    "value": "👉",
+                    "tag": "emoji",
+                    "score": 2
+                },
+                {
+                    "value": "💰",
+                    "tag": "emoji",
+                    "score": 1
+                },
+                {
+                    "value": "💰",
+                    "tag": "emoji",
+                    "score": 1
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "KRW_Johns",
+        "text": "@BarackObama @TehRockCritic I’m voting cuz I want @jimmykimmel to stop making the same unfunny Trump “jokes” all the time. If this all works out and we get a Democrat prez by 2020, maybe his career will finally end (he’s pretty much nothing without those Trump jokes)",
+        "tweet_id": "1044986689293180928",
+        "tweet_url": "https://twitter.com/KRW_Johns/status/1044986689293180928",
+        "sentiment": {
+            "valence_score": 0.5315774339537505,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "want",
+                    "tag": "word",
+                    "score": 1
+                },
+                {
+                    "value": "stop",
+                    "tag": "word",
+                    "score": -1
+                },
+                {
+                    "value": "unfunny",
+                    "tag": "word",
+                    "score": -2
+                },
+                {
+                    "value": "jokes",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "works",
+                    "tag": "word",
+                    "score": 3
+                },
+                {
+                    "value": "pretty",
+                    "tag": "word",
+                    "score": 1
+                },
+                {
+                    "value": "jokes",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BMLewis2",
+        "text": "I feel like I'm living in some trashy third rate paperback. The days of intelligent, classy, witty @BarackObama seem like 100 years ago.",
+        "tweet_id": "1044986683492425728",
+        "tweet_url": "https://twitter.com/BMLewis2/status/1044986683492425728",
+        "sentiment": {
+            "valence_score": 1.948557158514987,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "like",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "intelligent",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "classy",
+                    "tag": "word",
+                    "score": 3
+                },
+                {
+                    "value": "like",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "cliffschecter",
+        "text": "In his most recent blog, @RepSteveChabot tries to (lol) take credit for our economy (false) &amp; claim GOP #TaxScam had something to do w it (false). I fact check him (w like actual links, # s, citations!) and reintro him to dude named @BarackObama https://t.co/SrHB0qe95L #Chabotage",
+        "tweet_id": "1044980447049060352",
+        "tweet_url": "https://twitter.com/cliffschecter/status/1044980447049060352",
+        "sentiment": {
+            "valence_score": 0.48412291827592707,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "lol",
+                    "tag": "word",
+                    "score": 3
+                },
+                {
+                    "value": "false",
+                    "tag": "word",
+                    "score": -1
+                },
+                {
+                    "value": "false",
+                    "tag": "word",
+                    "score": -1
+                },
+                {
+                    "value": "like",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "CorkySwift2",
+        "text": "@STPFreak @TejasPsycho @real_Ryan_P @XT52017white @CharismaMolotov @nightOwlbookLvr @marleneroseb @lblack1969 @DontTreadOnUS @steffiesteeler @wade_spiker @PVHenryConLLC @LifeIsHope6 @VortexVixen45 @seashorewoman @DaShrood0ne @ScrewedHumans @rdrhwke @Jayhawker4Trump @ChapulinColoRed @JoeyMarker426 @SCBelle6 @TruthMaga @jimlibertarian @Tia6sc @GmanFan45 @USARocks_1 @thatsqueensnark @ForrestCSmith @SassySculptor @mutts4me_sherri @warrant05_tony @TWGroupsWarrior @TheMessanger_ @MollyV178 @190FiveCFC @TulpaOmega @abajoKadenas @Zippityd00dah @DaZipstahh @Amazzon48 @mammyharvey1 @TeedIsMe @Pickles0201 @Bexofeasttex @smalltownandrew @LazyMeatball @BarackObama No I’m a man on disability who has worked since he was fucking 14 years old. And I’m going to need that growth to be able to retire in a peaceful way. And when was the last time that your stupid ass volunteered to even serve thanksgiving meals. You are one dumb blocked MF",
+        "tweet_id": "1044973558072586242",
+        "tweet_url": "https://twitter.com/CorkySwift2/status/1044973558072586242",
+        "sentiment": {
+            "valence_score": -0.799187039693594,
+            "label": "-ive",
+            "meta": [
+                {
+                    "value": "No",
+                    "tag": "word",
+                    "score": -1
+                },
+                {
+                    "value": "disability",
+                    "tag": "word",
+                    "score": -2
+                },
+                {
+                    "value": "fucking",
+                    "tag": "word",
+                    "score": -4
+                },
+                {
+                    "value": "growth",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "peaceful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "stupid",
+                    "tag": "word",
+                    "score": -2
+                },
+                {
+                    "value": "ass",
+                    "tag": "word",
+                    "score": -4
+                },
+                {
+                    "value": "dumb",
+                    "tag": "word",
+                    "score": -3
+                },
+                {
+                    "value": "blocked",
+                    "tag": "word",
+                    "score": -1
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "Mrmario1",
+        "text": "@MaTTurner4Life @LAGrayson @MrMokelly @TomiLahren @BarackObama I am talking about crime.  I like wealth that's why Trump is doing so well for this country.  Ask people about their 401k's?  Then why do more African Americans die there than any other city?  Explain that one.  It's the most dangerous for blacks no doubt.",
+        "tweet_id": "1044986608917917696",
+        "tweet_url": "https://twitter.com/Mrmario1/status/1044986608917917696",
+        "sentiment": {
+            "valence_score": -0.24473153173721174,
+            "label": "-ive",
+            "meta": [
+                {
+                    "value": "crime",
+                    "tag": "word",
+                    "score": -3
+                },
+                {
+                    "value": "like",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "wealth",
+                    "tag": "word",
+                    "score": 3
+                },
+                {
+                    "value": "die",
+                    "tag": "word",
+                    "score": -3
+                },
+                {
+                    "value": "dangerous",
+                    "tag": "word",
+                    "score": -2
+                },
+                {
+                    "value": "no",
+                    "tag": "word",
+                    "score": -1
+                },
+                {
+                    "value": "doubt",
+                    "tag": "word",
+                    "negation": true,
+                    "score": 1
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "ahobaeshy",
+        "text": "@BarackObama Hi",
+        "tweet_id": "1044986602177671168",
+        "tweet_url": "https://twitter.com/ahobaeshy/status/1044986602177671168",
+        "sentiment": {
+            "valence_score": 0,
+            "label": "neutral",
+            "meta": []
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "Humanbeing1973",
+        "text": "#feelthebern @SenSanders #cnn #msnbc @jimmy_dore #maga #BlueWave2018    #BlueWaveComing2018 #BlueWaveComing #bluewave #TheResistanceVotes    #resistence #theresistence #dnc #FoxAndFriends #FoxNews @BarackObama  @ObamaFoundation @MichelleObama https://t.co/yP5csiOKo7",
+        "tweet_id": "1044371359248244737",
+        "tweet_url": "https://twitter.com/Humanbeing1973/status/1044371359248244737",
+        "sentiment": {
+            "valence_score": 0,
+            "label": "neutral",
+            "meta": []
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "Olivia_Salsbery",
+        "text": "@BarackObama Also, please remember to vote in local, small elections when they come - they make a HUGE difference too! :)",
+        "tweet_id": "1044986577477197824",
+        "tweet_url": "https://twitter.com/Olivia_Salsbery/status/1044986577477197824",
+        "sentiment": {
+            "valence_score": 1.2171612389003692,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "please",
+                    "tag": "word",
+                    "score": 1
+                },
+                {
+                    "value": "HUGE",
+                    "tag": "word",
+                    "score": 1
+                },
+                {
+                    "value": ":)",
+                    "tag": "emoticon",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "EstebanYo",
+        "text": "@BarackObama Voting against everything you stand for. In other words I’m voting for freedom and truth.",
+        "tweet_id": "1044986559647297536",
+        "tweet_url": "https://twitter.com/EstebanYo/status/1044986559647297536",
+        "sentiment": {
+            "valence_score": -0.5,
+            "label": "-ive",
+            "meta": [
+                {
+                    "value": "stand",
+                    "tag": "word",
+                    "score": -3
+                },
+                {
+                    "value": "freedom",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "KrisParonto",
+        "text": "Couldn’t have said it better myself JB 🇺🇸, thank you . @BarackObama #ThisIsYourLegacy https://t.co/zD38KtK0pd",
+        "tweet_id": "1044802517383696385",
+        "tweet_url": "https://twitter.com/KrisParonto/status/1044802517383696385",
+        "sentiment": {
+            "valence_score": 2.5,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "better",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "🇺",
+                    "tag": "emoji",
+                    "score": 3
+                },
+                {
+                    "value": "🇸",
+                    "tag": "emoji",
+                    "score": 3
+                },
+                {
+                    "value": "thank",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "_thegutter",
+        "text": "@BarackObama 2 years into this bad dream, I think it's fair to say...Make America Great Again. Anything but this. Your positive impacts still remain",
+        "tweet_id": "1044986524666859523",
+        "tweet_url": "https://twitter.com/_thegutter/status/1044986524666859523",
+        "sentiment": {
+            "valence_score": 0.8075728530872482,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "bad",
+                    "tag": "word",
+                    "score": -3
+                },
+                {
+                    "value": "dream",
+                    "tag": "word",
+                    "score": 1
+                },
+                {
+                    "value": "fair",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "Great",
+                    "tag": "word",
+                    "score": 3
+                },
+                {
+                    "value": "positive",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "Irishanne54",
+        "text": "@HappyRunner33 @davekartunen @BarackObama I don't live in the USA and I miss him 😞🍀",
+        "tweet_id": "1044986499123556353",
+        "tweet_url": "https://twitter.com/Irishanne54/status/1044986499123556353",
+        "sentiment": {
+            "valence_score": -0.6666666666666666,
+            "label": "-ive",
+            "meta": [
+                {
+                    "value": "miss",
+                    "tag": "word",
+                    "score": -2
+                },
+                {
+                    "value": "😞",
+                    "tag": "emoji",
+                    "score": -1
+                },
+                {
+                    "value": "🍀",
+                    "tag": "emoji",
+                    "score": 1
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "dirigofact",
+        "text": "@john_boyne @BarackObama This woman has made nonspecific claims about things he did to other people. She then makes an absurd claim about a gang rape train and specifically says only that Kav was \"present\" at the party. Nakedly political smears.",
+        "tweet_id": "1044986487354396673",
+        "tweet_url": "https://twitter.com/dirigofact/status/1044986487354396673",
+        "sentiment": {
+            "valence_score": -2.581988897471611,
+            "label": "-ive",
+            "meta": [
+                {
+                    "value": "rape",
+                    "tag": "word",
+                    "score": -4
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "PaulPGGauthier",
+        "text": "Princeton Environmental Ideathon is back in 2019 and we need your support: https://t.co/wZ4sHQXpgN Create today the planet of tomorrow! @JeffBezos @Princeton @TigersGoGreen @AndlingerCenter @Apple  @agritecture @nrgenergy @BP_plc @WWF @boringcompany @BillGates @BarackObama",
+        "tweet_id": "1044986479389347841",
+        "tweet_url": "https://twitter.com/PaulPGGauthier/status/1044986479389347841",
+        "sentiment": {
+            "valence_score": 1.8786728732554485,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "support",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "Greenmile2000",
+        "text": "@HeshmatAlavi @nikooamini @FedericaMog @BarackObama Fuck you mogrini",
+        "tweet_id": "1044986463690084352",
+        "tweet_url": "https://twitter.com/Greenmile2000/status/1044986463690084352",
+        "sentiment": {
+            "valence_score": -4,
+            "label": "-ive",
+            "meta": [
+                {
+                    "value": "Fuck",
+                    "tag": "word",
+                    "score": -4
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "spatial_anomaly",
+        "text": "@EarthConcepts @KHab69 @NostalgicNeves @trumpforprison7 @BarackObama The country has been slowly unraveling for 40 years and both parties have had their hand in it. The fact that it unravels faster under Republicans isn't lost on me, but Dems are still pulling at the strings.",
+        "tweet_id": "1044986420782190592",
+        "tweet_url": "https://twitter.com/spatial_anomaly/status/1044986420782190592",
+        "sentiment": {
+            "valence_score": 1.8848425873126298,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "lost",
+                    "tag": "word",
+                    "negation": true,
+                    "score": 3
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "torikickit",
+        "text": "@BarackObama 😘 https://t.co/0K0olV8rXj",
+        "tweet_id": "1044986404865036290",
+        "tweet_url": "https://twitter.com/torikickit/status/1044986404865036290",
+        "sentiment": {
+            "valence_score": 4,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "😘",
+                    "tag": "emoji",
+                    "score": 4
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "CuttingTrees",
+        "text": "@BarackObama I have never been more inspired to vote in midterms before now.  You are so greatly missed in the Oval Office.  Thank you and @MichelleObama for the 8 years we had with your administration!",
+        "tweet_id": "1044986382681346048",
+        "tweet_url": "https://twitter.com/CuttingTrees/status/1044986382681346048",
+        "sentiment": {
+            "valence_score": 0.4637388957601682,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "inspired",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "missed",
+                    "tag": "word",
+                    "score": -2
+                },
+                {
+                    "value": "Thank",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "HeshmatAlavi",
+        "text": ".@FedericaMog falls to a new low in appeasing #Iran's regime &amp; following the footsteps of @BarackObama.\n\nThis money-flow to Iran will help Tehran:\n\n-Boost domestic crackdown\n-Support Tehran creating havoc across the region\n-Develop ballistic missiles &amp; ...\nhttps://t.co/wtTTwPfm6x",
+        "tweet_id": "1044981612444823552",
+        "tweet_url": "https://twitter.com/HeshmatAlavi/status/1044981612444823552",
+        "sentiment": {
+            "valence_score": 0.6642111641550714,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "appeasing",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "help",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "Boost",
+                    "tag": "word",
+                    "score": 1
+                },
+                {
+                    "value": "Support",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "havoc",
+                    "tag": "word",
+                    "score": -2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "jusbreathin69",
+        "text": "@BarackObama Miss you, good sir. ❤",
+        "tweet_id": "1044986336309071873",
+        "tweet_url": "https://twitter.com/jusbreathin69/status/1044986336309071873",
+        "sentiment": {
+            "valence_score": 1.6666666666666667,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "Miss",
+                    "tag": "word",
+                    "score": -2
+                },
+                {
+                    "value": "good",
+                    "tag": "word",
+                    "score": 3
+                },
+                {
+                    "value": "❤",
+                    "tag": "emoji",
+                    "score": 4
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "uu_a23",
+        "text": "@BarackObama https://t.co/ngHpWVz4iV",
+        "tweet_id": "1044690642960621571",
+        "tweet_url": "https://twitter.com/uu_a23/status/1044690642960621571",
+        "sentiment": {
+            "valence_score": 0,
+            "label": "neutral",
+            "meta": []
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "sashaonsamhain",
+        "text": "@BarackObama Can u make Joe run for Pres so u can be VP so we can get rid of Agent Orange ?",
+        "tweet_id": "1044986312451919872",
+        "tweet_url": "https://twitter.com/sashaonsamhain/status/1044986312451919872",
+        "sentiment": {
+            "valence_score": 0,
+            "label": "neutral",
+            "meta": []
+        }
+    },
+    {
+        "twitter_handle": "FutureCorps7",
+        "text": "@BarackObama Why Vote? Ordinary people on an extraordinary journey from slaveship to spaceship.  Along the way #WeThePeople engaged low income youth in their vision of their own American futures and sustained #change.  @YouthUSA #EconomicInclusion at #GoalKeepers18  https://t.co/wMREKMD9WY",
+        "tweet_id": "1044986310962958336",
+        "tweet_url": "https://twitter.com/FutureCorps7/status/1044986310962958336",
+        "sentiment": {
+            "valence_score": 0.7071067811865475,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "vision",
+                    "tag": "word",
+                    "score": 1
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "YatesAaron",
+        "text": "@jodimgolf @CharlesMBlow So are we so ridiculous to also think @BarackObama's cocaine use a disqualifier or are we just being ridiculous because we're partisan hacks?\n\nYou might find it hard to believe, but high schoolers use drugs, have sex and drive over the speed limit.",
+        "tweet_id": "1044986310237118464",
+        "tweet_url": "https://twitter.com/YatesAaron/status/1044986310237118464",
+        "sentiment": {
+            "valence_score": -1.3944333775567928,
+            "label": "-ive",
+            "meta": [
+                {
+                    "value": "ridiculous",
+                    "tag": "word",
+                    "score": -3
+                },
+                {
+                    "value": "ridiculous",
+                    "tag": "word",
+                    "score": -3
+                },
+                {
+                    "value": "hard",
+                    "tag": "word",
+                    "score": -1
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "Adaya77",
+        "text": "We came, we saw, it all died!  Thanks @HillaryClinton @BarackObama and @SenJohnMcCain Libya is now a nation of slaughter and slave traders.  How can you even pretend to feel superior after all the hideous carnage you caused? https://t.co/ebUtixh9Y5 https://t.co/OYfeeLI9c6",
+        "tweet_id": "1044942017065676803",
+        "tweet_url": "https://twitter.com/Adaya77/status/1044942017065676803",
+        "sentiment": {
+            "valence_score": -0.674199862463242,
+            "label": "-ive",
+            "meta": [
+                {
+                    "value": "died",
+                    "tag": "word",
+                    "score": -3
+                },
+                {
+                    "value": "Thanks",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "slave",
+                    "tag": "word",
+                    "score": -3
+                },
+                {
+                    "value": "pretend",
+                    "tag": "word",
+                    "score": -1
+                },
+                {
+                    "value": "superior",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "hideous",
+                    "tag": "word",
+                    "score": -3
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "jaketapper",
+        "text": ".@BarackObama speaking to students in Illinois: \"You need to vote because our democracy depends on it...This moment really is different. The stakes really are higher. The consequences of any of us sitting on the sidelines are more dire.”",
+        "tweet_id": "1038100291156107264",
+        "tweet_url": "https://twitter.com/jaketapper/status/1038100291156107264",
+        "sentiment": {
+            "valence_score": -1.8848425873126298,
+            "label": "-ive",
+            "meta": [
+                {
+                    "value": "dire",
+                    "tag": "word",
+                    "score": -3
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "WUMradioshow",
+        "text": "@BarackObama What did YOU know and when did YOU know it?..https://t.co/HpWh326wic",
+        "tweet_id": "1044986296245071880",
+        "tweet_url": "https://twitter.com/WUMradioshow/status/1044986296245071880",
+        "sentiment": {
+            "valence_score": 0,
+            "label": "neutral",
+            "meta": []
+        }
+    },
+    {
+        "twitter_handle": "deservepljc53",
+        "text": "@BarackObama The faithful Lord Almighty will do everything good and beautiful to His Excellency President Donald J. Trump of United States of America, President Trump, First Lady Melania Trump and family. He will grant you abundant prosperity in every area of your life. In Jesus Christ's name",
+        "tweet_id": "1044986289387393026",
+        "tweet_url": "https://twitter.com/deservepljc53/status/1044986289387393026",
+        "sentiment": {
+            "valence_score": 1.2236576586860588,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "faithful",
+                    "tag": "word",
+                    "score": 3
+                },
+                {
+                    "value": "good",
+                    "tag": "word",
+                    "score": 3
+                },
+                {
+                    "value": "beautiful",
+                    "tag": "word",
+                    "score": 3
+                },
+                {
+                    "value": "United",
+                    "tag": "word",
+                    "score": 1
+                },
+                {
+                    "value": "grant",
+                    "tag": "word",
+                    "score": 1
+                },
+                {
+                    "value": "prosperity",
+                    "tag": "word",
+                    "score": 3
+                },
+                {
+                    "value": "Jesus",
+                    "tag": "word",
+                    "score": 1
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "bob560",
+        "text": "@BarackObama Lets get voter ID up and running.  We don't want outside influence in out elections.",
+        "tweet_id": "1044986277324414976",
+        "tweet_url": "https://twitter.com/bob560/status/1044986277324414976",
+        "sentiment": {
+            "valence_score": -0.9682458365518544,
+            "label": "-ive",
+            "meta": [
+                {
+                    "value": "want",
+                    "tag": "word",
+                    "negation": true,
+                    "score": -1
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "ProudResister",
+        "text": "When @BarackObama spoke on the world stage he was respected, admired and trusted. When @realDonaldTrump speaks on the world stage he is laughed at, ridiculed and not believed. In 2 years, America has gone from being the most respected nation in the world to a laughingstock. #UNGA",
+        "tweet_id": "1044639065344139270",
+        "tweet_url": "https://twitter.com/ProudResister/status/1044639065344139270",
+        "sentiment": {
+            "valence_score": 1.1952286093343936,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "respected",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "admired",
+                    "tag": "word",
+                    "score": 3
+                },
+                {
+                    "value": "trusted",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "laughed",
+                    "tag": "word",
+                    "score": 1
+                },
+                {
+                    "value": "respected",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "boontondi",
+        "text": "@WolfForPA @BarackObama You have my sympathy. You should #WalkAway.",
+        "tweet_id": "1044986257309396993",
+        "tweet_url": "https://twitter.com/boontondi/status/1044986257309396993",
+        "sentiment": {
+            "valence_score": 2,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "sympathy",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "WolfForPA",
+        "text": "BREAKING: @BarackObama just endorsed my re-election! Stand with President Obama and chip in today to help our campaign win this November → https://t.co/C674mg3TLW",
+        "tweet_id": "1043272456411201537",
+        "tweet_url": "https://twitter.com/WolfForPA/status/1043272456411201537",
+        "sentiment": {
+            "valence_score": 1.0564428184106458,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "endorsed",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "Stand",
+                    "tag": "word",
+                    "score": -3
+                },
+                {
+                    "value": "help",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "win",
+                    "tag": "word",
+                    "score": 4
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "leo2gs",
+        "text": "@JC_Varela @IvanDuque @VP @mike_pence @VladimirPutin24 @realDonaldTrump @leo2gs @BarackObama",
+        "tweet_id": "1044780692264112129",
+        "tweet_url": "https://twitter.com/leo2gs/status/1044780692264112129",
+        "sentiment": {
+            "valence_score": 0,
+            "label": "neutral",
+            "meta": []
+        }
+    },
+    {
+        "twitter_handle": "KrisParonto",
+        "text": "Couldn’t have said it better myself JB 🇺🇸, thank you . @BarackObama #ThisIsYourLegacy https://t.co/zD38KtK0pd",
+        "tweet_id": "1044802517383696385",
+        "tweet_url": "https://twitter.com/KrisParonto/status/1044802517383696385",
+        "sentiment": {
+            "valence_score": 2.5,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "better",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "🇺",
+                    "tag": "emoji",
+                    "score": 3
+                },
+                {
+                    "value": "🇸",
+                    "tag": "emoji",
+                    "score": 3
+                },
+                {
+                    "value": "thank",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "AliSalari1965",
+        "text": ".@FedericaMog falls to a new low in appeasing #Iran's regime &amp; following the footsteps of @BarackObama.\nThis money-f\n-Boost domestic crackdown\n-Support Tehran creating havoc across the region\n-Develop ballistic missiles &amp; ...\n@realDonaldTrump @SecPompeo @nikkihaley https://t.co/BgC7DiJXU2",
+        "tweet_id": "1044985821693120513",
+        "tweet_url": "https://twitter.com/AliSalari1965/status/1044985821693120513",
+        "sentiment": {
+            "valence_score": 0.54894379103355,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "appeasing",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "Boost",
+                    "tag": "word",
+                    "score": 1
+                },
+                {
+                    "value": "Support",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "havoc",
+                    "tag": "word",
+                    "score": -2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "smithcho_inc",
+        "text": "@CovertQT @HappyRunner33 @davekartunen @BarackObama 😁",
+        "tweet_id": "1044986227684851713",
+        "tweet_url": "https://twitter.com/smithcho_inc/status/1044986227684851713",
+        "sentiment": {
+            "valence_score": 2,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "😁",
+                    "tag": "emoji",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "ProudResister",
+        "text": "When @BarackObama spoke on the world stage he was respected, admired and trusted. When @realDonaldTrump speaks on the world stage he is laughed at, ridiculed and not believed. In 2 years, America has gone from being the most respected nation in the world to a laughingstock. #UNGA",
+        "tweet_id": "1044639065344139270",
+        "tweet_url": "https://twitter.com/ProudResister/status/1044639065344139270",
+        "sentiment": {
+            "valence_score": 1.1952286093343936,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "respected",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "admired",
+                    "tag": "word",
+                    "score": 3
+                },
+                {
+                    "value": "trusted",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "laughed",
+                    "tag": "word",
+                    "score": 1
+                },
+                {
+                    "value": "respected",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "Maritzfranmitz1",
+        "text": "@BarackObama I'll register and will Vote, no way I'll let this opportunity pass..... We need to get Trump and the backless congressmen out of there!! Enough!!!!",
+        "tweet_id": "1044986221137711105",
+        "tweet_url": "https://twitter.com/Maritzfranmitz1/status/1044986221137711105",
+        "sentiment": {
+            "valence_score": 0.3872983346207417,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "no",
+                    "tag": "word",
+                    "score": -1
+                },
+                {
+                    "value": "opportunity",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "agoldberg1981",
+        "text": "@BarackObama @ashleyrkline Thanks for the reminder. I’ll be voting GOP!!!",
+        "tweet_id": "1044740023445270528",
+        "tweet_url": "https://twitter.com/agoldberg1981/status/1044740023445270528",
+        "sentiment": {
+            "valence_score": 2,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "Thanks",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "NillyPJ",
+        "text": "@SpeakerRyan @DeptofDefense @HouseAppropsGOP Our raises under @BarackObama were far below expectations. Much like the rest of his leadership. Much needed support from @realDonaldTrump is well received by servicemembers!!! #maga",
+        "tweet_id": "1044986209414643712",
+        "tweet_url": "https://twitter.com/NillyPJ/status/1044986209414643712",
+        "sentiment": {
+            "valence_score": 1.3459547551454139,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "like",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "leadership",
+                    "tag": "word",
+                    "score": 1
+                },
+                {
+                    "value": "support",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "kimpizza99",
+        "text": "Ppl who need to be arrested @HillaryClinton @BarackObama why have they never been arrested? What about @SenBooker he admits to sexually groping a woman #stepdownbooker",
+        "tweet_id": "1044986203181920256",
+        "tweet_url": "https://twitter.com/kimpizza99/status/1044986203181920256",
+        "sentiment": {
+            "valence_score": -0.28867513459481287,
+            "label": "-ive",
+            "meta": [
+                {
+                    "value": "arrested",
+                    "tag": "word",
+                    "score": -3
+                },
+                {
+                    "value": "arrested",
+                    "tag": "word",
+                    "negation": true,
+                    "score": 3
+                },
+                {
+                    "value": "admits",
+                    "tag": "word",
+                    "score": -1
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "spatial_anomaly",
+        "text": "@EarthConcepts @KHab69 @NostalgicNeves @trumpforprison7 @BarackObama It was the highest up until then. Trump has continued the trend.\n\nMy point was never to say that Trump is better (he's not). My point was to express irritation who look back on the Obama years and think everything was rosy and perfect.",
+        "tweet_id": "1044986175159586816",
+        "tweet_url": "https://twitter.com/spatial_anomaly/status/1044986175159586816",
+        "sentiment": {
+            "valence_score": 1.4433756729740645,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "better",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "perfect",
+                    "tag": "word",
+                    "score": 3
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "ResistaMomma",
+        "text": "@Kirkobro @Bruce30337945 @resist_wrong @ZanManTV @agoldberg1981 @BarackObama @ashleyrkline Don’t be sorry.... majority of Americans would agree.  This illegitimate administration is a complete shit show.",
+        "tweet_id": "1044986152384524288",
+        "tweet_url": "https://twitter.com/ResistaMomma/status/1044986152384524288",
+        "sentiment": {
+            "valence_score": -1.75,
+            "label": "-ive",
+            "meta": [
+                {
+                    "value": "sorry",
+                    "tag": "word",
+                    "score": -1
+                },
+                {
+                    "value": "agree",
+                    "tag": "word",
+                    "score": 1
+                },
+                {
+                    "value": "illegitimate",
+                    "tag": "word",
+                    "score": -3
+                },
+                {
+                    "value": "shit",
+                    "tag": "word",
+                    "score": -4
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "leo2gs",
+        "text": "@PresidenciaPma @JC_Varela @UN @realDonaldTrump @leo2gs @BarackObama @jorgeramosnews @Pontifex_es @EdwinECabreraU",
+        "tweet_id": "1044986143530536960",
+        "tweet_url": "https://twitter.com/leo2gs/status/1044986143530536960",
+        "sentiment": {
+            "valence_score": 0,
+            "label": "neutral",
+            "meta": []
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "BarackObama",
+        "text": "The antidote to government by a powerful few is government by the organized, energized many. This National Voter Registration Day, make sure you're registered, vote early if you can, or show up on November 6. This moment is too important to sit out.",
+        "tweet_id": "1044690296917962754",
+        "tweet_url": "https://twitter.com/BarackObama/status/1044690296917962754",
+        "sentiment": {
+            "valence_score": 1.2097167578182677,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "powerful",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "important",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "TejasPsycho",
+        "text": "@STPFreak @CorkySwift2 @real_Ryan_P @XT52017white @CharismaMolotov @nightOwlbookLvr @marleneroseb @lblack1969 @DontTreadOnUS @steffiesteeler @wade_spiker @PVHenryConLLC @LifeIsHope6 @VortexVixen45 @seashorewoman @DaShrood0ne @ScrewedHumans @rdrhwke @Jayhawker4Trump @ChapulinColoRed @JoeyMarker426 @SCBelle6 @TruthMaga @jimlibertarian @Tia6sc @GmanFan45 @USARocks_1 @thatsqueensnark @ForrestCSmith @SassySculptor @mutts4me_sherri @warrant05_tony @TWGroupsWarrior @TheMessanger_ @MollyV178 @190FiveCFC @TulpaOmega @abajoKadenas @Zippityd00dah @DaZipstahh @Amazzon48 @mammyharvey1 @TeedIsMe @Pickles0201 @Bexofeasttex @smalltownandrew @LazyMeatball @BarackObama The deficit was only 10 trillion when he took office it ballooned to 19 at the time he left. Unemployment skyrocketed and went up every year he was in office. Suddenly it's down across the board. Companies that took their business under Obama are back under Trump.",
+        "tweet_id": "1044972078376669184",
+        "tweet_url": "https://twitter.com/TejasPsycho/status/1044972078376669184",
+        "sentiment": {
+            "valence_score": -1.1420804814403216,
+            "label": "-ive",
+            "meta": [
+                {
+                    "value": "deficit",
+                    "tag": "word",
+                    "score": -2
+                },
+                {
+                    "value": "Unemployment",
+                    "tag": "word",
+                    "score": -2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "RealBoostmaster",
+        "text": "@TDOnline Hey @HillaryClinton looks like MILLIONS of American citizens did NOT utilize @BarackObama’s FREE schooling &amp; training he supplied at the great expense of taxpayers funds to make your $15/HR starting minimum you both promised to everyone. \nObama paid them not to work\nSo Sad",
+        "tweet_id": "1044986094041931776",
+        "tweet_url": "https://twitter.com/RealBoostmaster/status/1044986094041931776",
+        "sentiment": {
+            "valence_score": 0.19920476822239894,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "like",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "FREE",
+                    "tag": "word",
+                    "score": 1
+                },
+                {
+                    "value": "great",
+                    "tag": "word",
+                    "score": 3
+                },
+                {
+                    "value": "promised",
+                    "tag": "word",
+                    "score": 1
+                },
+                {
+                    "value": "work",
+                    "tag": "word",
+                    "negation": true,
+                    "score": -3
+                },
+                {
+                    "value": "Sad",
+                    "tag": "word",
+                    "score": -2
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "KittyHerder",
+        "text": "@BarackObama Please come back. 🙁",
+        "tweet_id": "1044986085632299008",
+        "tweet_url": "https://twitter.com/KittyHerder/status/1044986085632299008",
+        "sentiment": {
+            "valence_score": 1,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "Please",
+                    "tag": "word",
+                    "score": 1
+                }
+            ]
+        }
+    },
+    {
+        "twitter_handle": "KrisParonto",
+        "text": "Couldn’t have said it better myself JB 🇺🇸, thank you . @BarackObama #ThisIsYourLegacy https://t.co/zD38KtK0pd",
+        "tweet_id": "1044802517383696385",
+        "tweet_url": "https://twitter.com/KrisParonto/status/1044802517383696385",
+        "sentiment": {
+            "valence_score": 2.5,
+            "label": "+ive",
+            "meta": [
+                {
+                    "value": "better",
+                    "tag": "word",
+                    "score": 2
+                },
+                {
+                    "value": "🇺",
+                    "tag": "emoji",
+                    "score": 3
+                },
+                {
+                    "value": "🇸",
+                    "tag": "emoji",
+                    "score": 3
+                },
+                {
+                    "value": "thank",
+                    "tag": "word",
+                    "score": 2
+                }
+            ]
+        }
+    }
+]
