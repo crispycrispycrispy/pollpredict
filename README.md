@@ -12,8 +12,8 @@ This is an experimental project where I try to predict future outcomes, in this 
   * [RahulGandhi](https://twitter.com/RahulGandhi "Rahul Gandhi's official twitter handle")
   * [NCPspeaks](https://twitter.com/NCPspeaks "NCP's official twitter handle")
   * [PawarSpeaks](https://twitter.com/PawarSpeaks "Sharad Pawar's official twitter handle")
-  I have considered 2 representative twitter handles for each of the three largest national political parties in India.
-  I could have considered more but was largely limited by twitters apis(Details below)
+I have considered 2 representative twitter handles for each of the three largest national political parties in India.
+I could have considered more but was largely limited by twitters apis(Details below)
  
  2. Recent @mentions of the above twitter handles are fetched using the twitter api.
  (Problems faced using the twitter api are explained below)
