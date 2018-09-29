@@ -1,23 +1,14 @@
 const path = require("path");
+const fs = require("fs");
 const constants = require(path.resolve(__dirname, "../constants/constants"));
 const mongodb = require('monk')(constants.mlab_uri);
-const testing = mongodb.get('testing');
+const testing = mongodb.get('BJP');
 
-testing.insert([{ _id: 1111,name: 'A', msg: 1},
-{ name: 'B', msg: 2},
-{ name: 'C', msg: 3},
-{ name: 'D', msg: 4},
-{ name: 'E', msg: 5}]).then(function (docs) {
+testing.find({}).then(function (docs) {
+  fs.writeFileSync(
+        path.resolve(__dirname, "../assets/normaljson/BJPdata.json"),
+        JSON.stringify(docs)
+    );
     console.log("Insert over");
-    console.log(docs);
-    mongodb.close();
-  });
-
-testing.find({ name: 'A' }).then(function (docs) {
-    console.log(docs);
-    console.log("find over");
     mongodb.close();
   })
-
-console.log("Over");
-

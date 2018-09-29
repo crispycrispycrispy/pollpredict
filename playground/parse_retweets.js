@@ -5,14 +5,15 @@ const fs = require("fs");
 
 
 parse_json_file = () => {
-    let json = JSON.parse(fs.readFileSync(path.resolve(__dirname, "@BarrackObama_search.json"), 'utf8'));
+    let json = JSON.parse(fs.readFileSync(path.resolve(__dirname, "../assets/json/@BarackObama_search.json"), 'utf8'));
     let newJson = [];
+    let count = 0;
     for(let i=0; i<json.results.length; i++){
-        if(!json.results[i].text.startsWith("RT ")){
-            newJson.push(json.results[i].text);
+        if(json.results[i].is_quote_status){
+            count++;
         }
     }
-    console.log(newJson);
+    console.log(count);
 }
 
 parse_json_file();
