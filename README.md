@@ -49,4 +49,4 @@ I could have considered more but was largely limited by twitters apis(Details be
   1. Additional languages can be added.
   2. Other social networks can be incorporated.
   3. Data from other twitter handles can be used.
-  4. Add some way to deal with tweet shorthands and wrong spellings.  
+  4. Add some way to deal with tweet shorthands and wrong spellings.
