@@ -7,7 +7,8 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -25,7 +26,7 @@
     "monk": "^6.0.6",
     "path": "^0.12.7",
     "request": "^2.88.0",
-    "twitter": "^1.7.1",
+    "sync-request": "^6.0.0",
     "wink-sentiment": "^4.0.2"
   }
 }
