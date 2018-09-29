@@ -19,17 +19,6 @@ getTweetObject = (tweetsObj, tweetIds) => {
         }
     }
     return relevantTweets;
-    //console.log(tweetIds);
-    //writeToFile(relevantTweets, path.resolve(__driname, "../assets/json/test.txt");
-}
-
-writeToFile = (relevantTweets, fileName) => {
-    fs.writeFile(path.resolve(__dirname, fileName), JSON.stringify(relevantTweets), function(err) {
-        if(err) {
-            return console.log(err);
-        }
-        console.log("The file was saved!");
-    });
 }
 
 normalizeObject = (tweet) => {
