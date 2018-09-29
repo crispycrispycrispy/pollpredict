@@ -2,9 +2,8 @@ const sentiment = require("wink-sentiment");
 const fs = require('fs');
 const path = require("path");
 
-getTweetObject = (tweetsObj) => {
+getTweetObject = (tweetsObj, tweetIds) => {
     let relevantTweets = [];
-    let tweetIds = [];
     for(let i=0; i<tweetsObj.results.length; i++){
         let tweet = tweetsObj.results[i];
         if(tweet.text.startsWith("RT ")){
