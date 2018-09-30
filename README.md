@@ -23,7 +23,7 @@ I could have considered more but was largely limited by twitters apis(Details be
  4. An aggregate of the scores is calculated for each twitter handle.
  This aggregate score depicts the public's cumulative "state" of mind about that particular political figure.
  
- 5. All the tweets along with the scores are depicted here: // add website here
+ 5. All the tweets along with the scores are depicted here: [PollPRedict](https://pollpredict.now.sh/)
 
 ## How are tweets scored?
  * Tweets are scored based on the [AFINN](http://neuro.compute.dtu.dk/wiki/AFINN).
@@ -50,3 +50,4 @@ I could have considered more but was largely limited by twitters apis(Details be
   2. Other social networks can be incorporated.
   3. Data from other twitter handles can be used.
   4. Add some way to deal with tweet shorthands and wrong spellings.
+  5. Live tweet filtering and scoring can be implemented.
