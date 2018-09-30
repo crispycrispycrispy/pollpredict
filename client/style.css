@@ -1,0 +1,21 @@
+.image_container{
+    object-fit: contain;
+}
+
+.info_container {
+    margin: 3px;
+    cursor: pointer;
+}
+
+.page_section {
+    background-color:	#DCDCDC;
+
+}
+
+#data_section{
+    border-radius: 25px;
+}
+
+p{
+    display: inline-block;
+}

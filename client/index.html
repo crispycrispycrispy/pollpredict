@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css"> -->
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+</head>
+    <body>
+        <div class = "page_section">
+            <table class="table table-hover table-bordered" width="80%">
+                <thead>
+                    <tr>
+                        <th><h5>Party</h5></th>
+                        <th><h5>Valence</h5></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            <div class="info_container">
+                                <div class="left_info_container" name="BJP">
+                                    <h5>BJP</h5>
+                                    <img class = "image-container" src="assets/BJP_icon.jpg" width= "50px" height= "50px"/>
+                                </div> 
+                            </div>
+                        </td>
+                        <td>
+                            <div id="BJP_progress"></div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="info_container">
+                                <div class="left_info_container" name="Narendra_Modi">
+                                    <h5>Narendra Modi</h5>
+                                    <img class = "image-container" src="assets/Narendra_Modi_icon.jpg" width= "50px" height= "50px"/>
+                                </div> 
+                            </div>
+                        </td>
+                        <td>
+                            <div id="Narendra_Modi_progress"></div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="info_container">
+                                <div class="left_info_container" name="INC">
+                                    <h5>INC</h5>
+                                    <img class = "image-container" src="assets/INC_icon.jpg" width= "50px" height= "50px"/>
+                                </div> 
+                            </div>
+                        </td>
+                        <td>
+                            <div id="INC_progress"></div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="info_container">
+                                <div class="left_info_container" name="Rahul_Gandhi">
+                                    <h5>Rahul Gandhi</h5>
+                                    <img class = "image-container" src="assets/Rahul_Gandhi_icon.jpg" width= "50px" height= "50px"/>
+                                </div> 
+                            </div>
+                        </td>
+                        <td>
+                            <div id="Rahul_Gandhi_progress"></div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="info_container">
+                                <div class="left_info_container"  name="NCP">
+                                    <h5>NCP</h5>
+                                    <img class = "image-container" src="assets/NCP_icon.jpg" width= "50px" height= "50px"/>
+                                </div> 
+                            </div>
+                        </td>
+                        <td>
+                            <div id="NCP_progress"></div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="info_container">
+                                <div class="left_info_container" name="Sharad_Pawar">
+                                    <h5>Sharad Pawar</h5>
+                                    <img class = "image-container" src="assets/Sharad_Pawar_icon.jpg" width= "50px" height= "50px"/>
+                                </div> 
+                            </div>
+                        </td>
+                        <td>
+                            <div id="Sharad_Pawar_progress"></div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div id ="loading_gif">
+            <img src = "assets/loading.gif">
+        </div>
+        <div class = "page_section" id="data_section">
+            <h5>Data</h5>
+            <div id = "data_list_section">
+                <table class="table table-hover table-sm table-bordered" id="listing_table">
+                    <thead>
+                        <tr>
+                            <th>handle</th>
+                            <th>tweet</th>
+                            <th>score</th>
+                        </tr>
+                    </thead>
+                    <tbody id="append_zone">
+                    </tbody>
+                </table>
+            </div>
+            <!-- <div id="reload_more_button">
+                <button type="button" class="btn btn-secondary">Reload More!</button>
+            </div> -->
+        </div>
+    </body>
+    <script src="client.js"></script>
+</html>
