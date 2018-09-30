@@ -1,11 +1,11 @@
 const path = require("path");
 const fs = require("fs");
 
-const constants = require(path.resolve(__dirname, "../constants/constants"));
+//const constants = require(path.resolve(__dirname, "../constants/constants"));
 const objparser = require(path.resolve(__dirname, "ObjectParser"));
 
 const monk = require('monk');
-const mongodb = monk(constants.mlab_uri);
+const mongodb = monk(process.env.MONGO_URI || constants.mlab_uri);
 
 makeIntoArray = (idObj) => {
     let idArray = [];
