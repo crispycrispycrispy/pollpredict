@@ -73,4 +73,26 @@ dbSync = async () => {
     mongodb.close();
 }
 
-dbSync();
+//dbSync();
+
+getTweets = (cname) => {
+    return new Promise((resolve, reject) => {
+        db = mongodb.get(cname);
+        db.find({},{sort:{'tweet_id':-1}, limit:200})
+        .then((docs) => resolve(docs))
+        .catch((docs) => reject(docs));
+    })
+}
+
+fetchScoreMeta = () => {
+    return new Promise((resolve, reject) => {
+        db = mongodb.get("ScoreMeta");
+        db.find({}).then((docs) => {
+            resolve(docs);
+        })
+    })
+}
+
+module.exports = {
+    dbSync, getTweets, fetchScoreMeta
+}

@@ -5,7 +5,7 @@ const fs = require("fs");
 const constants = require(path.resolve(__dirname, "../constants/constants"));
 const objparser = require(path.resolve(__dirname, "ObjectParser"));
 
-const mongodb = require('monk')(constants.mlab_uri);
+//const mongodb = require('monk')(constants.mlab_uri);
 
 searchMentions = (params={}) => {
     let options = {
@@ -93,6 +93,8 @@ getTweetsSync = () => {
         console.log("--------------");
     }
 }
+
+//getTweetsSync();
 
 module.exports = {
 }
